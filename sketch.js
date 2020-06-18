@@ -19,36 +19,36 @@ function setup() {
   stand1 = new Ground(500,500,250,10);
   stand2 = new Ground(800,350,200,10);
 
-  block1 = new Block(410,235,30,40);
-  block2 = new Block(440,235,30,40); 
-  block3 = new Block(470,235,30,40);
-  block4 = new Block(500,235,30,40);
-  block5 = new Block(530,235,30,40);
-  block6 = new Block(560,235,30,40);
-  block7 = new Block(590,235,30,40);
+  block1 = new Block(410,435,30,40);
+  block2 = new Block(440,435,30,40); 
+  block3 = new Block(470,435,30,40);
+  block4 = new Block(500,435,30,40);
+  block5 = new Block(530,435,30,40);
+  block6 = new Block(560,435,30,40);
+  block7 = new Block(590,435,30,40);
 
-  block8 = new Block(440,135,30,40);
-  block9 = new Block(470,135,30,40);
-  block10 = new Block(500,135,30,40);
-  block11 = new Block(530,135,30,40);
-  block12 = new Block(560,135,30,40);
+  block8 = new Block(440,400,30,40);
+  block9 = new Block(470,400,30,40);
+  block10 =new Block(500,400,30,40);
+  block11 =new Block(530,400,30,40);
+  block12 =new Block(560,400,30,40);
 
-  block13 = new Block(470,35,30,40);
-  block14 = new Block(500,35,30,40);
-  block15 = new Block(530,35,30,40);
-  block16 = new Block(500,0,30,40);
+  block13 = new Block(470,365,30,40);
+  block14 = new Block(500,365,30,40);
+  block15 = new Block(530,365,30,40);
+  block16 = new Block(500,330,30,40);
 
-  block17 = new Block(740,150,30,40);
-  block18 = new Block(770,150,30,40);
-  block19 = new Block(800,150,30,40);
-  block20 = new Block(830,150,30,40);
-  block21 = new Block(860,150,30,40);
+  block17 = new Block(740,300,30,40);
+  block18 = new Block(770,300,30,40);
+  block19 = new Block(800,300,30,40);
+  block20 = new Block(830,300,30,40);
+  block21 = new Block(860,300,30,40);
 
-  block22 = new Block(770,50,30,40);
-  block23 = new Block(800,50,30,40);
-  block24 = new Block(830,50,30,40);
+  block22 = new Block(770,265,30,40);
+  block23 = new Block(800,265,30,40);
+  block24 = new Block(830,265,30,40);
   
-  block25 = new Block(800,0,30,40);
+  block25 = new Block(800,230,30,40);
 
   polygon = new Polygon(50,200,5);
  
